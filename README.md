@@ -48,11 +48,19 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain the difference between `Relational Databases` and `SQL`.
 
+
+
 2. Why do tables need a `primary key`?
+
+Tables need a primary key so that each record can have a unique identifier for future reference
 
 3. What is the name given to a table column that references the primary key on another table.
 
+A column that references a primary key on another table is called a foreign key.
+
 4. What do we need in order to have a _many to many_ relationship between two tables.
+
+To have many-to-many relationships, you need to introduce intermediary tables that can reference both tables in use.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
