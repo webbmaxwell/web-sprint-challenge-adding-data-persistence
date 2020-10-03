@@ -25,5 +25,7 @@ router.post('/api/projects', (req, res) => {
         })
 })
 
+module.exports = router;
+
 //     -   [X] adding projects.
 //     -   [X] retrieving a list of projects.

@@ -25,5 +25,7 @@ router.post('/api/resources', (req, res) => {
         })
 })
 
+module.exports = router;
+
 //     -   [X] adding resources.
 //     -   [X] retrieving a list of resources.

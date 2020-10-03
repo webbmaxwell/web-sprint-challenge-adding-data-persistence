@@ -25,5 +25,7 @@ router.post('/api/projects/tasks', (req, res) => {
         })
 })
 
+module.exports = router;
+
 //     -   [X] adding tasks.
 //     -   [X] retrieving a list of tasks. **The list of tasks should include the project name and project description**.
