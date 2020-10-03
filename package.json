@@ -1,0 +1,23 @@
+{
+  "name": "web-sprint-challenge-adding-data-persistence",
+  "version": "1.0.0",
+  "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**",
+  "main": "knexfile.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbmaxwell/web-sprint-challenge-adding-data-persistence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbmaxwell/web-sprint-challenge-adding-data-persistence/issues"
+  },
+  "homepage": "https://github.com/webbmaxwell/web-sprint-challenge-adding-data-persistence#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
